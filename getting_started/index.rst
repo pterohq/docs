@@ -7,7 +7,7 @@ Getting Started
   :maxdepth: 2
 
 
-Ptero helps you to build :doc:`Scenarios </scenarios/index>` to understand which user behaviors and attributes are predictive of conversion.
+Ptero helps you to build :ref:`Scenarios <scenarios-what>` to understand which user behaviors and attributes are predictive of conversion.
 
 Before you'll be able to start using Ptero, you'll need to `sign up`_ and connect an existing source of data. For our inital launch, we only support Mixpanel_ as a data source, but we will be adding additional integrations as quickly as we can.
 
