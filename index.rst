@@ -12,6 +12,8 @@ Ptero School
   /dashboard/index
   /science/index
   /admin/index
+  /billing/index
+  /faq/index
   /contributing/index
 
 
