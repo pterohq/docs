@@ -16,6 +16,10 @@ Assuming you have Python already, install Sphinx::
 
     $ pip install sphinx sphinx-autobuild
 
+Note: if you are using XCode 5.1 or higher, the above command might fail, due to breaking changes in the XCode version bump. Run this instead::
+
+    $ sudo ARCHFLAGS=-Wno-error=unused-command-line-argument-hard-error-in-future pip install sphinx sphinx-autobuild
+
 Clone the documentation repo::
 
     $ git clone git@github.com:pterohq/docs.git ptero-docs
@@ -32,7 +36,7 @@ Making Edits
 
 Sphinx_ uses markup called reStructuredText which provides many built-in features for documentation, including easy linking, glossaries, and more.
 
-You can either reference existing docs to get document syntax, or review the `Sphinx reference docs`_ directly. 
+You can either reference existing docs to get document syntax, or review the `Sphinx reference docs`_ directly.
 
 Submitting Changes
 ====================
