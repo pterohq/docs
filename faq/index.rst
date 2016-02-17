@@ -26,3 +26,5 @@ Why are you doing this?
 ---------------
 
 Because we can! Curabitur tincidunt turpis ut ligula interdum pellentesque. Pellentesque faucibus gravida dolor, et mollis tortor condimentum ac. Vivamus mattis vel quam ullamcorper fermentum. Curabitur eget euismod felis. Etiam eleifend ante nec metus luctus ultrices vel ut urna. Proin auctor, augue a cursus laoreet, purus tortor blandit eros, id gravida magna diam at purus. Nullam interdum tempor justo ac mollis. Ut dictum bibendum ultricies. Nullam interdum est at est commodo sollicitudin.
+
+Check our our :ref:`Terms of Service <terms-of-service>` and :ref:`Privacy Policy <privacy-policy>`.

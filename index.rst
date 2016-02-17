@@ -18,7 +18,7 @@ Ptero School
 
 
 .. note::
-  
+
   If this is your first time at fight club, you *have* to read :ref:`gs-top`.
 
 This is where we'll discuss how you can use `Ptero`_ to the maximum extent allowable by law.
