@@ -108,13 +108,13 @@ For all questions about how we use the information we obtain through your use of
 12. Modification and Notice of Changes:
   We reserve the right to change, modify, add or remove portions of this TOS, without advance notice to you. We will notify you of any such changes by posting a notice on our website, and/or via email.  The new TOS will reference the effective date at the top of this page together with a link to previous versions. Except as stated elsewhere, such amended terms will be effective immediately and without further notice. Your continued use of the Service after the posting of changes constitutes your binding acceptance of such changes.
 
-14. Entire Agreement.
+13. Entire Agreement.
   This TOS and any document incorporated by reference herein constitute the entire agreement between you and us and govern your use of the Service, superseding any prior agreements between us.
 
-15. Severability.
+14. Severability.
   If any provision of this TOS is found by a court or other binding authority to be invalid, the remaining provisions contained in this TOS shall continue in full force and effect.
 
-16. Violations.
+15. Violations.
   Ptero reserves the right to take any action it deems appropriate if it determines, in its sole and absolute discretion, that you have violated this TOS. Such action may include cancelling your account, terminating your license to use the Service, or initiating civil or criminal legal proceedings.
 
 If you have any questions or concerns regarding this TOS, please contact us.
