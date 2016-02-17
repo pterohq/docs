@@ -6,6 +6,9 @@ Terms of Service
 .. toctree::
   :maxdepth: 2
 
+DRAFT
+=====
+
 PTERO TERMS OF SERVICE
 
 Effective Date:  December 21, 2015.

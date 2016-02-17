@@ -6,6 +6,8 @@ Privacy Policy
 .. toctree::
   :maxdepth: 2
 
+DRAFT
+=====
 Ptero Privacy Policy
 
 Effective Date:  December 17, 2015
