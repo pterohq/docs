@@ -1,4 +1,4 @@
-.. _privacy-policy-top:
+.. _privacy-policy:
 
 Privacy Policy
 **************

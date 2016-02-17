@@ -1,4 +1,4 @@
-.. _terms-of-service-top:
+.. _terms-of-service:
 
 Terms of Service
 ****************
