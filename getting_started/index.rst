@@ -16,7 +16,15 @@ Connect to Mixpanel
 
 Initially, Ptero imports the previous 6 months of event data from your Mixpanel account. After that, new event data will be periodically imported to keep your Ptero analysis fresh. *We do not modify any Mixpanel data in this process. Our integration is read-only.*
 
-:todo: Connect instructions
+1. Open your `Mixpanel account page`_. 
+
+.. image:: mixpanel-account.png
+
+2. In the Projects tab, copy and paste your API Key and API Secret into Ptero's form. 
+
+.. image:: mixpanel-tokens.png
+
+ 
 
 Create your first Scenario
 ===========================
@@ -26,6 +34,8 @@ Ptero automatically scans your data to guess at which events may be interesting 
 If you're fuzzy on what a Scenario is, take a moment to look at the :ref:`scenarios-what` section.
 
 To create a scenario from your dashboard, simply choose both your start and target event and click "Explore" to save the scenario.
+
+.. image:: signup-newscenario.png
 
 Now What?
 ====================
