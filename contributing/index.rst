@@ -4,7 +4,7 @@ Contributing to these Docs
 ****************************
 
 .. toctree::
-:maxdepth: 2
+	:maxdepth: 2
 
 This intends to be a living document which will evolve as new features and functionality is added to Ptero. The Ptero team attempts to keep it as up to date as possible, but input and clarifications are welcomed by the community.
 

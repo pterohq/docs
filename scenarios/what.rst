@@ -4,7 +4,7 @@ What is a Scenario?
 ****************************
 
 .. toctree::
-  :maxdepth: 2
+	:maxdepth: 2
 
 The Ptero *Scenario* is the basic building block of Ptero analyis, so it is important to understand how to create Scenarios and what they encapsulate.
 
@@ -21,7 +21,10 @@ Finally, *B* can be any event which occurs in your app, game or product and is r
 
 With these example events, you'd have a Scenario to explore "What leads from registration to trial-converted?".
 
-To build any Scenario, you must simply choose a start event and target event. Ptero takes over from there.
+To build any Scenario, you must simply choose a start event and target event. Ptero takes over from there.  
+
+.. image:: create-scenario.png
+
 
 Example Scenarios
 ======================
@@ -31,27 +34,13 @@ Some Scenarios may be about the user acquisition and **conversion** process:
 * For a web app with a trial, a scenario from trial start to trial conversion.
 * For a fremium app, look at users who register and then later upgraded to a paid plan.
 * For a mobile game, look at users who installed the app and then made an in-app purchase.
-* For a ...
 
 Or, Scenarios may be about **adoption** of particular features:
 
-* For a chat app, ...
-* For a recipe sharing site, ...
-* For a fantasy sports app, ...
-* For a ...
+* For a chat app, look at users who added friends and then initiated a group chat. 
+* For a recipe sharing site, look at users who viewed a recipe and then submitted a recipe.
+* For a fantasy sports app, look at users who joined a league and then voted on a trade.
 
 Furthermore, you can create Scenarios with "bad" events as target events. This would allow you to understand the behaviors which lead to churn or cancellations.
 
-* Look at ...
-
-The proverbial sky is the proverbial limit. Literally.
-
-
-How it Works
-===============
-
-Let's start by breaking down a simple Scenario example.
-
-:todo: high-level about how the scenario defines the data used for analysis
-
-For more, dive into :doc:`/science/index`.
+.. image:: negative-scenario.png
