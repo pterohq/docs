@@ -8,9 +8,7 @@ Ptero School
 
   /getting_started/index
   /scenarios/what
-  /scenarios/ui
   /dashboard/index
-  /science/index
   /admin/index
   /billing/index
   /faq/index

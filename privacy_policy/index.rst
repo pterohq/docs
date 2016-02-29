@@ -6,8 +6,6 @@ Privacy Policy
 .. toctree::
   :maxdepth: 2
 
-DRAFT
-=====
 Ptero Privacy Policy
 
 Effective Date:  December 17, 2015
@@ -95,9 +93,13 @@ By visiting this website or using our service, you consent to our collection and
 
 10.  Changes to this Privacy Policy.
 
-  We reserve the right to amend, alter, or otherwise change this Privacy Policy at our sole and absolute discretion. If we make any changes regarding the disclosure of Personal Information to third parties, we will inform you via email or by posting a notice on our Site.  Further use of this Site or our service following any such change constitutes your agreement to follow and be bound by the amended Privacy Policy. 11. Questions. If you ever have any questions about our online privacy policy, please contact us. We respect your rights and privacy, and will be happy to answer any questions or concerns you might have.
+  We reserve the right to amend, alter, or otherwise change this Privacy Policy at our sole and absolute discretion. If we make any changes regarding the disclosure of Personal Information to third parties, we will inform you via email or by posting a notice on our Site.  Further use of this Site or our service following any such change constitutes your agreement to follow and be bound by the amended Privacy Policy. 
+
+11. Questions. 
+
+  If you ever have any questions about our online privacy policy, please contact us. We respect your rights and privacy, and will be happy to answer any questions or concerns you might have.
 
 | Preact, Inc.
-| 290 King Street, Suite 10
+| 490 2nd Street, Suite 100
 | San Francisco, CA 94107
 | Contact@Ptero.com

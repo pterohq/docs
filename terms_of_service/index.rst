@@ -6,9 +6,6 @@ Terms of Service
 .. toctree::
   :maxdepth: 2
 
-DRAFT
-=====
-
 PTERO TERMS OF SERVICE
 
 Effective Date:  December 21, 2015.
@@ -119,7 +116,7 @@ For all questions about how we use the information we obtain through your use of
 
 If you have any questions or concerns regarding this TOS, please contact us.
 
-| Ptero
-| 290 King Street, Suite 10
+| Preact, Inc.
+| 490 2nd Street, Suite 100
 | San Francisco, CA 94107
 | Contact@Ptero.com
