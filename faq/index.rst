@@ -1,4 +1,4 @@
-.. _admin-top:
+.. _faq:
 
 Frequently Asked Questions
 ****************************
@@ -40,3 +40,10 @@ How do I cancel my paid subscription?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 To stop paying for additional MAUs, visit your account page and select ‘Cancel Subscription’. You will not be billed in the next month’s billing cycle. You will still be able to view your analytics in “read only” mode, but you won’t be able to run additional scenarios.
+
+
+
+
+
+
+Check our our :ref:`Terms of Service <terms-of-service>` and :ref:`Privacy Policy <privacy-policy>`.
