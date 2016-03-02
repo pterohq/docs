@@ -9,7 +9,7 @@
     : "Bksiqv27kRC1fOASWhC7j9fIIgB9YDVv");
     }}();
     var id = document.cookie.match(/userId=([^;]*)/);
-    id[1] && analytics.identify(id[1]);
+    id && id[1] && analytics.identify(id[1]);
     analytics.page('docs' + document.location.pathname);
   </script>
 {% endblock %}
