@@ -35,3 +35,4 @@ You can cancel your Ptero account by sending an email to hi@pterohq.com. You wil
 
 
 Check our our :ref:`Terms of Service <terms-of-service>` and :ref:`Privacy Policy <privacy-policy>`.
+git push

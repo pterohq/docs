@@ -14,10 +14,15 @@ Ptero School
   /faq/index
   /contributing/index
 
+Welcome to Ptero! 
+
+Ptero is a new way to think about analytics. Other analytics solutions expect you to ask specific questions such as "Does usage of messaging increase conversion likelihood?". This process of trial and error is time-consuming and provides only a partial view of what leads to success with your product.
+
+Ptero takes a new, more holistic approach. Ptero uses machine learning to uncover predictive behaviors based on your desired outcome. All you need to do is choose a target event, for example trial conversion, and Ptero will give you a ranked list of which events are most highly predictive of this action. You don't know what you don't know - Ptero is here to help you know more about what leads to success for your company! 
 
 .. note::
 
-  If this is your first time at fight club, you *have* to read :ref:`gs-top`.
+  If this is your first time exploring Ptero, the :ref:`gs-top` page is a great place to start. 
 
 This is where we'll discuss how you can use `Ptero`_ to the maximum extent allowable by law.
 
