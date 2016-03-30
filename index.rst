@@ -24,7 +24,6 @@ Ptero takes a new, more holistic approach. Ptero uses machine learning to uncove
 
   If this is your first time exploring Ptero, the :ref:`gs-top` page is a great place to start. 
 
-This is where we'll discuss how you can use `Ptero`_ to the maximum extent allowable by law.
 
 To get a sense of what we're building with Ptero, check out our blog_.
 
